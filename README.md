@@ -1,2 +1,2 @@
 # React-Native
-Algumas aplicações Mobile que desenvolvi para fixar conteúdos.
+Apenas algumas aplicações mobile que desenvolvi usando o React Native. Os códigos foram desenvolvidos para fixar conteúdos e desenvolver habilidades para futuros projetos.
